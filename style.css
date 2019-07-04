@@ -7,7 +7,7 @@ header {
     background-color: rgb(49, 47, 47);
     color: white;
     font-family: Circular,Helvetica,Arial,sans-serif;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 800;
     line-height: 27px;
 }
@@ -23,5 +23,52 @@ header {
 }
 
 .navbar {
-    margin: 0px auto 0px;
+    text-align: center;
+}
+
+.photo_gal {
+    margin: 0 20px 0px 20px;
+}
+
+h1 {
+    font-family: Circular,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    background-color: rgb(87, 175, 175);
+    padding: 10px
+}
+
+span {
+    text-decoration: underline;
+    text-decoration-color: yellow;
+}
+
+.row {
+    margin: 20px, 20px, 20px, 20px;
+    text-align: center;
+}
+
+
+.img-block {
+    display: inline-block;
+    margin: 0 0 0 0;
+    box-sizing: content-box;
+}
+
+img {
+    display: block;
+}
+
+.linkbar {
+    text-align: center;
+    background-color: yellow;
+    margin: 8px auto;
+    font-size: 10;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    font-family: Circular,Helvetica,Arial,sans-serif;
+    color: white;
+    padding: 10px;
 }

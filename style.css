@@ -1,0 +1,27 @@
+header {
+    height: 45px;
+    box-sizing: border-box;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+    margin: 0px auto 5px;
+    background-color: rgb(49, 47, 47);
+    color: white;
+    font-family: Circular,Helvetica,Arial,sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 27px;
+}
+.nav {
+    display: inline-block;
+    margin: 0px auto 0px;
+    background-color: lightgray;
+    font-family: Circular,Helvetica,Arial,sans-serif;
+    padding: 5px 5px 5px 5px;
+    font-size: 15px;
+    font-weight: 800px;
+    text-decoration: none;
+}
+
+.navbar {
+    margin: 0px auto 0px;
+}
